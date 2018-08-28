@@ -1,1 +1,1 @@
-A dice based game
+A dice based game using Javascript

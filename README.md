@@ -1,1 +1,1 @@
-# mypiggamepro
+A dice based game
